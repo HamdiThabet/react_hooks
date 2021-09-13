@@ -3,7 +3,7 @@ import StarRatingComponent from 'react-star-rating-component';
 import './App.css';
 import './App';
 
-const Filter= ({ handleFilter, handleAddMovie,handleRate }) => {
+const Filter= ({ handleFilter,handleRate }) => {
     return (
         <div>
             <Navbar bg="blue" expand="lg">
